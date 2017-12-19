@@ -19,7 +19,6 @@ Jagjeet Singh
  
 * thepoet.me - A personal identity page for poets.
 * plzalert.me - Notification app for T&P Cell, GNDEC
-* Nitnem - Android Application of selected Sikh hymns
 
 ----
 
